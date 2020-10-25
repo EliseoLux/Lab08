@@ -1,0 +1,6 @@
+///// ELECTRÓNICA DIGITAL 1
+///// JUAN LUX - 240116
+///// 23 - OCTUBRE - 2020
+/////
+///// LABORATORIO 08
+///// EJERCICIO 01
